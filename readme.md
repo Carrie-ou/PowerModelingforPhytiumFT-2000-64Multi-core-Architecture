@@ -1,4 +1,5 @@
 # Power Modeling for Phytium FT-2000+/64 Multi-core Architecture
+- Authors: Zhixin Ou, Juan Chen\*, Yunfang Zhang, Yong Dong, Yuan Yuan, and Zheng Wang
 
 
 
